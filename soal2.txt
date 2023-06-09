@@ -1,0 +1,33 @@
+
+1.  a. pemahaman aplikasi, dalam hal ini yang paling mendasar adalah mengerti alur kerja aplikasi 
+    hingga alur kerja tiap fitur, serta memahami keterkaitan dependensi / pihak pendukung  yangang berkaitan
+
+    b. mengetahui metode pengujian , dalam hal ini qa harus mengerti tahap testing yang di perlukan sesuai 
+        standart perusahaan / tim tertentu
+
+    c. menejemen pengujian, qa harus bisa mgatur strategi pengujian denghan baik serta berkolaborasi dengan tim terkait
+
+    d. analisis bug , dalam hal ini qa harus teliti dalam mengidentifikasi bug 
+
+    e. komunikasi , seorang qa harus bisa berkomunikasi baik dengan tim terkait agar tim tetap harmonis.
+        serta harus bisa mengkomunikasikan hasil temuan testing yang di lakukan dengan baik dan professional
+
+    f. basic coding. setidaknya qa harus mengerti dasar pemograman  , api serta konsep dasar yang di gunakan dalam aplikasi tersebut
+
+    g. teliti dan jujur
+
+
+2. menurut saya jalur karir di semua profesi tidak ada yang paten tetap mengedepankan skill dan nasib, 
+    secara garis besar tahapan 
+    a. junior qa
+    b. middle qa
+    c. senior qa
+    d.lead qa
+    e. menejer qa
+
+3. a. meminimalisir bug
+    b. meningkatkan kualitas aplikasi
+    c. menghemat biaya developemt
+    d. meningkatkan rating pengguna
+    
+
